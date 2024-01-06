@@ -1,5 +1,5 @@
 <H1>VitalityCraft</H1>
-<H2> v0.3.2 </H2>
+<H2> v0.3.3 </H2>
 <p> (working title) </p>
 <p> VitalityCraft is a WIP mod that adds several new items and blocks. The goal is to make a mod that builds off of the vanilla combat system, along with adding a few QOL changes. </p>
 <h2> Basic concept </h2>
