@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #",
+    " # "
+  ],
+  "result": {
+    "item": "urielmod:empty_heart_container",
+    "count": 3
+  },
+  "show_notification": true
+}

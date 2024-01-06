@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "urielmod:neg_heart_container"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "item": "urielmod:neg_heart_essence"
+  },
+  "show_notification": true
+}

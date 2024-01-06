@@ -1,5 +1,17 @@
 {
   "item.urielmod.magic_wand": "mAgIc WaNd",
+  "item.urielmod.empty_heart_container": "Empty Vitality Container",
+
+  "item.urielmod.pos_heart_essence": "Vitality (Positive)",
+  "item.urielmod.neg_heart_essence": "Vitality (Negative)",
+
+  "item.urielmod.pos_heart_container": "Vitality Container (Positive)",
+  "item.urielmod.neg_heart_container": "Vitality Container (Negative)",
+
+  "block.urielmod.pos_heart_ore": "Vital Ore (Positive)",
+  "block.urielmod.neg_heart_ore": "Vital Ore (Negative)",
+
+
 
   "creative_tab.uriel_tab": "Uri's Mod"
 }

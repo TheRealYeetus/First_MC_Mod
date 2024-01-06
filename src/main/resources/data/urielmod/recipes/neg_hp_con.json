@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "urielmod:empty_heart_container"
+    },
+    "@": {
+      "item": "urielmod:neg_heart_essence"
+    }
+  },
+  "pattern": [
+    "@@@",
+    "@#@",
+    "@@@"
+  ],
+  "result": {
+    "item": "urielmod:neg_heart_container"
+  },
+  "show_notification": true
+}
